@@ -1,0 +1,3 @@
+@extends('extends.lidar')
+
+@section()
